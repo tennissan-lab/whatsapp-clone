@@ -96,4 +96,4 @@ A premium, full-featured WhatsApp Web clone built with a modern tech stack. This
 - **Socket delivery logic**: Optimized to mark messages "delivered" only when users connect, and "read" immediately if they are in the active chat.
 
 ---
-Created by Monish Narain N for the Full Stack Developer Technical Task.
+Created by Tennissan J for the Full Stack Developer Technical Task.
